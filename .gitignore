@@ -4,7 +4,6 @@ __pycache__/
 *.pyc
 .env
 .env.local
-*.log
 dist/
 .DS_Store
 .idea/
